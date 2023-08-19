@@ -38,7 +38,7 @@ B站365天全勤奖得主，有兴趣[来小破站找我玩呀](https://space.bi
 
 [![Email](https://img.shields.io/badge/Email-HK256@qq.com-FF9F03?style=for-the-badge&logo=Gmail)](mailto:白隐Hakuin<HK256@qq.com>)
 
-[![官方Q群](https://img.shields.io/badge/官方①群-421853830-14B6F6?style=for-the-badge&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=2WQHZYfq)
+[![官方Q群](https://img.shields.io/badge/官方①群-594945037-14B6F6?style=for-the-badge&logo=TencentQQ)](https://jq.qq.com/?_wv=1027&k=2WQHZYfq)
 
 # 设定 World
 
