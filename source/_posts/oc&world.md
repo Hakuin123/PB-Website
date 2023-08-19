@@ -5,6 +5,8 @@ sticky: 10000
 
 只是试图把心中的想法端出来啦ヾ(๑╹ヮ╹๑)ﾉ”
 
+包含白熊对自己形象的设定和背景组织的信息
+
 [白熊形象设定](/world/oc) ‖ [晨曦塔世界观](/world) ‖ *敬请期待…*
 
 [Copyright ©2019-2023 白熊工作室, All Rights Reserved.](/copyright)

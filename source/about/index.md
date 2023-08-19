@@ -50,11 +50,16 @@ B站365天全勤奖得主，有兴趣[来小破站找我玩呀](https://space.bi
 
 [Copyright ©2019-2023 白熊工作室, All Rights Reserved.](/copyright)
 
+> 温馨提示：晨曦塔不面向社会公开，将档案内容公之于众可能会带来不必要的恐慌，请不要将档案发布于社会媒体。
+
+世界观基于现实世界为蓝本虚构幻想而成，与现实中国家或组织无关。
+如有雷同，~~那太好了~~纯属见鬼XD
+
 # 关于本站 About This Website
 
-此为`白熊工作室`官方网站，目前是`白隐Hakuin`个人站点
+此项目名为`PB-Website`，为`白熊工作室`官方网站，目前是`白隐Hakuin`个人站点
 
-本站始建于
+本站始建于2023年3月28日，于2023年9月1日正式上线。
 
 萌国ICP备案号：[萌ICP备20233033号](https://icp.gov.moe/?keyword=20233033)
 
@@ -78,4 +83,4 @@ B站365天全勤奖得主，有兴趣[来小破站找我玩呀](https://space.bi
 
 ---
 
-<p align="center"><b>Copyright ©2019-2023 白熊工作室, All Right
+<p align="center"><b>Copyright ©2019-2023 白熊工作室, All Rights Reserved.</b></p>
