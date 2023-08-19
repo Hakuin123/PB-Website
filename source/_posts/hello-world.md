@@ -18,7 +18,8 @@ sticky: 20071121
 - 罗小黑死忠粉～(￣▽￣～)~
 - 方舟♖刀客塔 `Dr.白隐Hakuin`
 - Minecraft方块人
-- B站LV5小UP  [白隐Hakuin](https://space.bilibili.com/478104735)
+- B站LV5小UP  [![白隐Hakuin](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D478104735&query=%24.data.follower&suffix=%E5%90%8D%E7%B2%89%E4%B8%9D&style=social&logo=bilibili&label=bilibili)
+](https://space.bilibili.com/478104735)
 
 认识一下如何？点开右上角“[关于](/about)”，让我好好做个自我介绍吧！
 
