@@ -25,4 +25,4 @@ hidden: true
 
 ## 对外屏蔽
 
-为防止外界知晓■■岛的存在，岛上采用了一系列技术手段起到隐藏作用，大多数为自然环境模拟、电磁干扰等。如技术上采用生成相位相反的波叠加，消除海浪到达岛屿引起的辐射波[[技术细节]](http://anthropology.mit.edu/sites/default/files/documents/helmreich_how_to_hide_an_island.pdf)；通过■■■■对卫星成像进行干扰，使云图成像显示为云层或错误……除开这些之外，■■岛还在其他方面采用一系列完整体系隐蔽其自身外界观测的存在性。具体细节参阅[PB-DOCS-1018 ■■岛隐蔽工程系统综合解析）](/world/Authorization)。
+为防止外界知晓■■岛的存在，岛上采用了一系列技术手段起到隐藏作用，大多数为自然环境模拟、电磁干扰等。如技术上采用生成相位相反的波叠加，消除海浪到达岛屿引起的辐射波[[技术细节]](http://anthropology.mit.edu/sites/default/files/documents/helmreich_how_to_hide_an_island.pdf)；通过■■■■对卫星成像进行干扰，使云图成像显示为云层或错误……除开这些之外，■■岛还在其他方面采用一系列完整体系隐蔽其自身外界观测的存在性。具体细节参阅[PB-DOCS-1018 ■■岛隐蔽工程系统综合解析](/world/Authorization)。

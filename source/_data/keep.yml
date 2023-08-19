@@ -26,10 +26,10 @@ style:
 
   # Your blog website logo image
   # You can use local image, image external link or don't fill
-  logo: /images/logo.svg
+  logo: /images/avatar128.jpg
 
   # Favicon (You can use local image or image external link)
-  favicon: /images/logo.svg
+  favicon: /images/avatar64-circle.ico
 
   # Avatar (You can use local image or image external link)
   avatar: /images/avatar128.jpg
@@ -282,6 +282,11 @@ footer:
     enable: true                   # Option values: true | false
     record_code: 萌ICP备20233033号 # ICP record number of your website, Can be null
     url: https://icp.gov.moe/?keyword=20233033  # Your ICP link url, Can be null
+
+  site_deploy:
+    enable: false        # Option values: true | false
+    provider: github     # Option values: github | vercel | netlify | gitee | aliyun | tencent_cloud | upyun
+    url:                 # Your deployment provider url, Can be null
 
   # When the footer style is shields, you can customize the shields configuration
   # See: https://shields.io

@@ -3,6 +3,7 @@ title: links # 友链样式根据title: links属性来匹配，请勿修改
 ---
 
 <!--友链配置文件：source/_data/links.yml-->
+---
 
 <details><summary>申请交换友链</summary>
 <p>
