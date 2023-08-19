@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+public/
+.deploy*/
+_multiconfig.yml
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
