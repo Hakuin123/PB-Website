@@ -30,11 +30,20 @@ B站365天全勤奖得主，有兴趣[来小破站找我玩呀](https://space.bi
 
 （这一行是留给[罗小黑妖灵论坛](https://www.heibbs.net)的，但是[重构计划](https://m.weibo.cn/detail/4866496969312834)还在咕…_(:з」∠)_在咕啦在咕啦）
 
+是GitHub上的一名开发者！用户名是[Hakuin123](https://github.com/Hakuin123)～
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hakuin123&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hakuin123&layout=compact)
+
 # 联系 Connect
 
 ~~这熊基本上只住B站（小声）~~
 
 [![哔哩哔哩](https://img.shields.io/badge/bilibili-白隐Hakuin-00a1d6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/478104735)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Hakuin123-%23181717?style=for-the-badge&logo=GitHub
+)](https://github.com/Hakuin123)
 
 [![Email](https://img.shields.io/badge/Email-HK256@qq.com-FF9F03?style=for-the-badge&logo=Gmail)](mailto:白隐Hakuin<HK256@qq.com>)
 
