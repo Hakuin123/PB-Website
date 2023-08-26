@@ -132,4 +132,4 @@ hide_posts:
 
   # 设置白名单，白名单中的 generator 可以访问隐藏文章
   # 常见的 generators 有：index, tag, category, archive, sitemap, feed, etc.
-  allowlist_generators: ['*']
+  # allowlist_generators: ['*']
