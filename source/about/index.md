@@ -42,8 +42,7 @@ B站365天全勤奖得主，有兴趣[来小破站找我玩呀](https://space.bi
 
 [![哔哩哔哩](https://img.shields.io/badge/bilibili-白隐Hakuin-00a1d6?style=for-the-badge&logo=bilibili)](https://space.bilibili.com/478104735)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Hakuin123-%23181717?style=for-the-badge&logo=GitHub
-)](https://github.com/Hakuin123)
+[![GitHub](https://img.shields.io/badge/GitHub-Hakuin123-%23181717?style=for-the-badge&logo=GitHub)](https://github.com/Hakuin123)
 
 [![Email](https://img.shields.io/badge/Email-HK256@qq.com-FF9F03?style=for-the-badge&logo=Gmail)](mailto:白隐Hakuin<HK256@qq.com>)
 
@@ -57,7 +56,7 @@ B站365天全勤奖得主，有兴趣[来小破站找我玩呀](https://space.bi
 
 [白熊形象设定](/oc) ‖ [晨曦塔世界观](/world) ‖ *敬请期待…*
 
-[Copyright ©2019-2023 白熊工作室, All Rights Reserved.](/copyright)
+[Copyright ©2019-2024 白熊工作室, All Rights Reserved.](/copyright)
 
 > 温馨提示：晨曦塔不面向社会公开，将档案内容公之于众可能会带来不必要的恐慌，请不要将档案发布于社会媒体。
 
@@ -92,4 +91,4 @@ B站365天全勤奖得主，有兴趣[来小破站找我玩呀](https://space.bi
 
 ---
 
-<p align="center"><b>Copyright ©2019-2023 白熊工作室, All Rights Reserved.</b></p>
+<p align="center"><b>Copyright ©2019-2024 白熊工作室, All Rights Reserved.</b></p>

@@ -101,6 +101,13 @@ theme: keep
 
 
 
+# Search
+search:
+  path: search.json
+  field: post
+  content: true
+  format: striptags
+
 # Feed Atom
 # npm install hexo-generator-feed
 feed:

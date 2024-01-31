@@ -9,7 +9,7 @@ sticky: 10000
 
 [白熊形象设定](/world/oc) ‖ [晨曦塔世界观](/world) ‖ *敬请期待…*
 
-[Copyright ©2019-2023 白熊工作室, All Rights Reserved.](/copyright)
+[Copyright ©2019-2024 白熊工作室, All Rights Reserved.](/copyright)
 
 <!-- more -->
 
