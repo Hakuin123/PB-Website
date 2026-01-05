@@ -305,10 +305,11 @@ footer:
   since: 2019           # The starting year of your website, Can be null
   word_count: true      # Option values: true | false
 
-  icp:
-    enable: true                     # Option values: true | false
-    record_code: 萌ICP备20233033号   # ICP record code of your website
-    url: https://icp.gov.moe/?keyword=20233033  # Your ICP link url, Can be null
+  record:
+    enable: true
+    list:
+      - code: 萌ICP备20233033号
+        link: https://icp.gov.moe/?keyword=20233033
 
   site_deploy:
     enable: true         # Option values: true | false
