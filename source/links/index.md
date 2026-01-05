@@ -1,5 +1,6 @@
 ---
-title: links # 友链样式根据title: links属性来匹配，请勿修改
+title: links
+template: links # Keep 主题 v4.2.0 起，只有在页面的 Front-Matter 中添加了 template: links，该页面才能使用 links 页面模板
 ---
 
 <!--友链配置文件：source/_data/links.yml-->
